@@ -11,3 +11,10 @@ I initially began this notebook yesterday, using docker container heuristic_kilb
 ### 6:25pm 
 
 Done the first video, [The spelled-out intro to neural networks and backpropagation: building micrograd](https://www.youtube.com/watch?v=VMj-3S1tku0) I am really glad I went through the process of watching this video and coding it out myself!
+
+## Thursday, June 1, 2023
+
+### 12:53pm
+
+Starting to go through the second video [The spelled-out intro to language modeling: building makemore](https://www.youtube.com/watch?v=PaCmpygFfXo)
+
