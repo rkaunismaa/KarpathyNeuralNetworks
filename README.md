@@ -18,3 +18,7 @@ Done the first video, [The spelled-out intro to neural networks and backpropagat
 
 Starting to go through the second video [The spelled-out intro to language modeling: building makemore](https://www.youtube.com/watch?v=PaCmpygFfXo)
 
+## Wednesday, June 7, 2023
+
+Continuing to go through and code the third video [Building makemore Part2:MLP](https://www.youtube.com/watch?v=TCH_1BHY58I)
+
