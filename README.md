@@ -22,3 +22,7 @@ Starting to go through the second video [The spelled-out intro to language model
 
 Continuing to go through and code the third video [Building makemore Part2:MLP](https://www.youtube.com/watch?v=TCH_1BHY58I)
 
+### 5:39pm 
+
+Finished up the third video. 
+
