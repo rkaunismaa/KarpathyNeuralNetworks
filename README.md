@@ -26,3 +26,11 @@ Continuing to go through and code the third video [Building makemore Part2:MLP](
 
 Finished up the third video. 
 
+## Thursday, June 8, 2023
+
+### 12:56pm
+
+I was working through the 4th video and noticed the conda environment nlpwt is using the cpu only version of PyTorch but I want to use the gpu version of PyTorch, so I am going to conda install the gpu version ...
+
+Hmmm ... actually, I am not gonna do that. I am going to create a new conda environment that uses PyTorch and I don't want to use docker just because I don't like those permission issues I get.
+
