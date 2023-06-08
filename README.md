@@ -43,3 +43,7 @@ Hmmm but I still see PyTorch '1.31.1+cu116' in the base environment! I am gonna 
 
 So I am now gonna run this stuff under docker container sad_nightingale, just because it runs fine and already has PyTorch gpu!
 
+### 6:22pm
+
+It's strange to see stuff runs slower on the gpu, and other stuff just does not run if we use the gpu. So I will continue doing the .to(device) stuff in the code, but will default to using torch.device('cpu').
+
