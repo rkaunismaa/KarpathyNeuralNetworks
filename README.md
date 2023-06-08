@@ -34,3 +34,12 @@ I was working through the 4th video and noticed the conda environment nlpwt is u
 
 Hmmm ... actually, I am not gonna do that. I am going to create a new conda environment that uses PyTorch and I don't want to use docker just because I don't like those permission issues I get.
 
+### 1:38pm
+
+I noticed the base conda environment had PyTorch 1.12, so I pip uninstalled it, rebooted, then tried this notebook again under nlpwt, and it looks like this still works. Nice!
+Hmmm but I still see PyTorch '1.31.1+cu116' in the base environment! I am gonna try to also kill that ... 
+
+### 2:08pm
+
+So I am now gonna run this stuff under docker container sad_nightingale, just because it runs fine and already has PyTorch gpu!
+
