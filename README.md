@@ -47,3 +47,9 @@ So I am now gonna run this stuff under docker container sad_nightingale, just be
 
 It's strange to see stuff runs slower on the gpu, and other stuff just does not run if we use the gpu. So I will continue doing the .to(device) stuff in the code, but will default to using torch.device('cpu').
 
+## Friday, June 9, 2023
+
+### 8:50am
+
+Continuing working through "Building makemore Part 3: Activations & Gradients, BatchNorm"
+
