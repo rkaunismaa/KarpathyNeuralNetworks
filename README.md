@@ -53,3 +53,7 @@ It's strange to see stuff runs slower on the gpu, and other stuff just does not 
 
 Continuing working through "Building makemore Part 3: Activations & Gradients, BatchNorm"
 
+## Monday, June 12, 2023
+
+Finish with "Building makemore Part 3: Activations & Gradients, BatchNorm". Soo much stuff to unpack from the video. The final code was set into makemore_part2_bn.ipynb. 
+
