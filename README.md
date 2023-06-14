@@ -57,3 +57,7 @@ Continuing working through "Building makemore Part 3: Activations & Gradients, B
 
 Finish with "Building makemore Part 3: Activations & Gradients, BatchNorm". Soo much stuff to unpack from the video. The final code was set into makemore_part2_bn.ipynb. 
 
+## Wednesday, June 13, 2023
+
+Continuing with "Building makemore Part 4: Becoming a Backprop Ninja". I am getting the same results in my version of the code 'makemore_part4_backprop.ipynb' compared with when I run the Karpathy version of this code which I replicated into 'makemore_part4_backprop_Karpathy.ipynb'. The video shows all cmp results as equal but I noticed a divergence from when we calculate 'hpreact'. I am not going to try to 'fix' this. 
+
